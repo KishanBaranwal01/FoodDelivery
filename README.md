@@ -1,3 +1,9 @@
+
+![Homepage](public/micky.jpg)
+
+
+
+
 FoodOrder – Online Food Ordering Website  -
 
 FoodOrder is a responsive and visually appealing food ordering web application. It allows users to browse menus, add items to cart, and manage their orders seamlessly.
