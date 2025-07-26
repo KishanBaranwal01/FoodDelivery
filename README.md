@@ -1,5 +1,5 @@
 
-FoodOrder – Online Food Ordering Website  -
+FoodDelivery – Online Food Ordering Website  -
 
 FoodOrder is a responsive and visually appealing food ordering web application. It allows users to browse menus, add items to cart, and manage their orders seamlessly.
 Designed with a modern UI and intuitive UX, this website is perfect for food delivery startups or restaurant showcases.
